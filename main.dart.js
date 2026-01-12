@@ -121947,7 +121947,7 @@ m=t.p
 p=A.l7(A.b([A.jw(g,g,g,A.bft(A.iM(n,g,new A.ea(o,t.UE),g,g),B.cE,A.bsu(),new A.aLD()),g,g,g,new A.aLE(s),g,g,g,g),A.jw(g,g,g,B.a5X,g,g,g,new A.aLF(a),g,g,g,f.gR7()),A.jw(g,g,g,B.a5Z,g,g,g,new A.aLG(h,a),g,g,g,f.ga30())],m),B.dv,!0,g,p)
 o=t.l
 n=A.bC(a,g,o).w
-n=A.cv(g,A.dc(A.b([A.cv(g,B.a_A,B.S,g,g,B.XZ,g,g,g,g,B.a43,g,g,g),B.bd7,A.cS(A.cu(A.b([A.aH(f.gNk(),g,g,g,g,B.bhP,g,g),B.bj8],m),B.bN,B.X,B.ac),1)],m),B.a3,B.X,B.ac),B.S,g,g,B.XY,g,g,g,g,new A.au(20,n.r.b+20,20,20),g,g,g)
+n=A.cv(g,A.dc(A.b([A.cv(g,B.a_A,B.S,g,g,B.XZ,g,g,g,g,B.a43,g,g,g),B.bd7,A.cS(A.cu(A.b([A.aH(f.gNk(),g,g,g,g,B.bhP,g,g),B.bj7],m),B.bN,B.X,B.ac),1)],m),B.a3,B.X,B.ac),B.S,g,g,B.XY,g,g,g,g,new A.au(20,n.r.b+20,20,20),g,g,g)
 l=A.cS(A.at2(A.b([h.xo(a,"Main Navigation",B.a5y),h.o8(B.a5x,"Dashboard",g),new A.lN(A.S(a).aAC(B.a9),new A.FJ(B.a5L,A.aH(f.gIC().toUpperCase(),g,g,g,g,B.bft,g,g),A.b([h.o8(B.yE,f.gBu(),B.Uj),h.o8(B.a5r,f.gBt(),B.Ui),h.o8(B.a5u,f.gBp(),B.Ud),h.o8(B.a5s,f.gBq(),B.Ue),h.o8(B.yA,f.gwU(),B.Uf),h.o8(B.yH,f.ga2d(),B.Uk),h.o8(B.a5i,f.ga2c(),B.Ug),h.o8(B.yy,f.gBs(),B.Uh)],m),!0,g),g),B.v_,h.xo(a,"Appearance",B.ri),new A.EN(new A.aLH(h),g,g,t.PK),B.v_,h.xo(a,"Tools",B.a5w),h.Uu(B.a5G,f.gIG(),g,new A.aLI(h,a))],m),B.a3G,g,!1),1)
 k=A.S(a).ax.a===B.bt?A.d5(13,B.K.ao()>>>16&255,B.K.ao()>>>8&255,B.K.ao()&255):B.q5
 j=A.ct(24)
@@ -122140,7 +122140,7 @@ k=A.e9(B.bk,A.b([l,A.ox(-35,A.cv(p,A.aYS(B.K,B.pA,p,s),B.S,p,p,new A.cE(p,p,p,p,
 i=A.d5(235,B.K.ao()>>>16&255,B.K.ao()>>>8&255,B.K.ao()&255)
 s=A.ct(30)
 j=A.b([new A.bX(0,B.ay,A.d5(B.n.bv(25.5),B.N.ao()>>>16&255,B.N.ao()>>>8&255,B.N.ao()&255),B.b5Y,20)],j)
-return A.kA(p,A.cv(p,A.f3(new A.eP(B.XV,A.K2(A.cu(A.b([k,B.bdf,new A.bo(B.a41,A.cu(A.b([B.bji,B.bjr,B.V9,A.cv(p,A.cu(A.b([q.Uw(q.d,"Ward No.",B.a5B,!1),B.oD,q.Uw(q.e,"Password",B.a5H,!0),B.V9,new A.bF(1/0,58,A.aoD(B.bjg,q.gaur(),A.b4j(p,p,B.dI,p,p,p,8,p,p,B.K,p,p,p,p,new A.cw(A.ct(18),B.W),p,p,p,p,p)),p)],r),B.a3,B.X,B.ac),B.S,p,p,new A.cE(i,p,p,s,j,p,p,B.aY),p,p,p,p,B.a40,p,p,p),B.bdd,A.f3(A.cu(A.b([A.wg(!1,B.bj7,p,p,!0,p,new A.aPm(),p,p),B.oD,B.bjs],r),B.a3,B.X,B.ac),p,p),B.oD],r),B.bN,B.X,B.ac),p)],r),B.a3,B.X,B.ac),p,B.aA,p,p,B.aS),p),p,p),B.S,p,p,new A.cE(p,p,p,p,p,new A.lr(B.dD,B.im,B.dc,m,p,p),p,B.aY),p,1/0,p,p,p,p,p,1/0),p)},
+return A.kA(p,A.cv(p,A.f3(new A.eP(B.XV,A.K2(A.cu(A.b([k,B.bdf,new A.bo(B.a41,A.cu(A.b([B.bji,B.bjr,B.V9,A.cv(p,A.cu(A.b([q.Uw(q.d,"Ward No.",B.a5B,!1),B.oD,q.Uw(q.e,"Password",B.a5H,!0),B.V9,new A.bF(1/0,58,A.aoD(B.bjg,q.gaur(),A.b4j(p,p,B.dI,p,p,p,8,p,p,B.K,p,p,p,p,new A.cw(A.ct(18),B.W),p,p,p,p,p)),p)],r),B.a3,B.X,B.ac),B.S,p,p,new A.cE(i,p,p,s,j,p,p,B.aY),p,p,p,p,B.a40,p,p,p),B.bdd,A.f3(A.cu(A.b([A.wg(!1,B.bj8,p,p,!0,p,new A.aPm(),p,p),B.oD,B.bjs],r),B.a3,B.X,B.ac),p,p),B.oD],r),B.bN,B.X,B.ac),p)],r),B.a3,B.X,B.ac),p,B.aA,p,p,B.aS),p),p,p),B.S,p,p,new A.cE(p,p,p,p,p,new A.lr(B.dD,B.im,B.dc,m,p,p),p,B.aY),p,1/0,p,p,p,p,p,1/0),p)},
 Uw(a,b,c,d){var s,r,q=this,p=null,o=d&&q.f,n=d?B.vb:B.VC,m=A.iM(c,B.dI,p,p,22)
 if(d)s=A.jw(p,p,p,A.iM(q.f?B.a5o:B.a5p,p,p,p,20),p,p,p,new A.aPg(q),p,p,p,p)
 else s=p
@@ -138702,10 +138702,10 @@ B.bhO=new A.v(!0,B.aO,null,".AppleSystemUIFont",null,null,null,null,null,null,nu
 B.bi8=new A.v(!0,B.N,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.F,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.beJ=new A.v(!0,B.N,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.F,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.bj5=new A.fe(B.bgB,B.bfy,B.bgC,B.bhi,B.bf7,B.bff,B.bfU,B.bh4,B.bg9,B.bhT,B.bey,B.beW,B.bhO,B.bi8,B.beJ)
-B.bgM=new A.v(!0,B.K,null,null,null,null,null,B.iU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bj7=new A.cB("Forgot Credentials? Contact Mansukh Patel: 9987930007",null,B.bgM,null,null,null,null,null,null,null)
 B.bf5=new A.v(!0,B.aJ,null,null,null,null,11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bj8=new A.cB("Secure Election Software",null,B.bf5,null,null,null,null,null,null,null)
+B.bj7=new A.cB("Secure Election Software",null,B.bf5,null,null,null,null,null,null,null)
+B.bgM=new A.v(!0,B.K,null,null,null,null,null,B.iU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.bj8=new A.cB("Forgot Credentials? Contact Mayuresh Kamboj: 9420420420",null,B.bgM,null,null,null,null,null,null,null)
 B.bj9=new A.cB("Send",null,null,null,null,null,null,null,null,null)
 B.biF=new A.v(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bjb=new A.cB("Rows: ",null,B.biF,null,null,null,null,null,null,null)
